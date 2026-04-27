@@ -1,4 +1,2 @@
 # BFSI_Project
-This is Banking financial services & insurance project
-
-Author - Mohini Mole
+This is Banking financial services & insurance project <br> Author - Mohini Mole
